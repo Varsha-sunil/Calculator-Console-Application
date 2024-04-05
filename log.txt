@@ -1,0 +1,484 @@
+Input: 40-70+56
+Output: 26
+3/22/2024 11:53:59 PM: Input: 40-90-78+56*55
+3/22/2024 11:53:59 PM: Output: -3960
+3/22/2024 11:54:05 PM: Input: 30/0
+3/22/2024 11:54:05 PM: Error: Cannot divide by zero.
+3/22/2024 11:54:05 PM: Error: Cannot divide by zero.
+3/22/2024 11:54:21 PM: Input: 79*8/90/874/+398
+3/22/2024 11:54:21 PM: Error: Input string was not in a correct format.
+3/22/2024 11:54:26 PM: Input: 79*8/90/874/398
+3/22/2024 11:54:26 PM: Output: 2.01873849287117E-05
+3/22/2024 11:54:38 PM: Input: 5/0
+3/22/2024 11:54:38 PM: Error: Cannot divide by zero.
+3/22/2024 11:54:38 PM: Error: Cannot divide by zero.
+3/22/2024 11:55:31 PM: Input: 40-90+98
+3/22/2024 11:55:31 PM: Output: 48
+3/22/2024 11:55:37 PM: Input: 4/0
+3/22/2024 11:55:37 PM: Error: Cannot divide by zero.
+3/22/2024 11:55:37 PM: Error: Cannot divide by zero.
+3/22/2024 11:55:43 PM: Input: 9000000000000000+0
+3/22/2024 11:55:43 PM: Output: 9E+15
+3/22/2024 11:58:36 PM: Input: 4647256546574/0
+3/22/2024 11:58:36 PM: Error: Cannot divide by zero.
+3/22/2024 11:58:36 PM: Error: Cannot divide by zero.
+3/23/2024 12:05:16 AM: Input: 40=09
+3/23/2024 12:05:16 AM: Error: Error occurred: Input string was not in a correct format.
+3/23/2024 12:05:16 AM: Error: Input string was not in a correct format.
+3/23/2024 12:05:22 AM: Input: 98-84738
+3/23/2024 12:05:22 AM: Output: -84640
+3/23/2024 12:05:27 AM: Input: 3w47384
+3/23/2024 12:05:27 AM: Error: Error occurred: Input string was not in a correct format.
+3/23/2024 12:05:27 AM: Error: Input string was not in a correct format.
+3/23/2024 12:05:32 AM: Input: 3923+93847
+3/23/2024 12:05:32 AM: Output: 97770
+3/23/2024 12:06:23 AM: Input: fefewif
+3/23/2024 12:06:23 AM: Error: Error occurred: Input string was not in a correct format.
+3/23/2024 12:06:23 AM: Error: Input string was not in a correct format.
+3/23/2024 12:06:31 AM: Input: 3164886^dhe
+3/23/2024 12:06:31 AM: Error: Error occurred: Input string was not in a correct format.
+3/23/2024 12:06:31 AM: Error: Input string was not in a correct format.
+3/23/2024 12:06:37 AM: Input: 45%374
+3/23/2024 12:06:37 AM: Error: Error occurred: Input string was not in a correct format.
+3/23/2024 12:06:37 AM: Error: Input string was not in a correct format.
+3/23/2024 12:06:41 AM: Input: 67*37
+3/23/2024 12:06:41 AM: Output: 2479
+3/23/2024 12:06:49 AM: Input: 73471-0
+3/23/2024 12:06:49 AM: Output: 73471
+3/23/2024 12:06:56 AM: Input: 89/0
+3/23/2024 12:06:56 AM: Error: Cannot divide by zero.
+3/23/2024 12:06:56 AM: Error: Error occurred: Cannot divide by zero.
+3/23/2024 12:06:56 AM: Error: Cannot divide by zero.
+3/23/2024 12:06:58 AM: Input: 384u2823
+3/23/2024 12:06:58 AM: Error: Error occurred: Input string was not in a correct format.
+3/23/2024 12:06:58 AM: Error: Input string was not in a correct format.
+3/23/2024 12:07:07 AM: Input: 783783*900+038-3723
+3/23/2024 12:07:07 AM: Output: 705401015
+3/23/2024 12:07:16 AM: Input: 733333333333333333333333333333333333333/38
+3/23/2024 12:07:16 AM: Output: 1.92982456140351E+37
+3/23/2024 12:09:16 AM: Input: 4582637325732567/7467362735
+3/23/2024 12:09:16 AM: Output: 613688.860225506
+3/23/2024 12:09:30 AM: Input: 4375156735735*7
+3/23/2024 12:09:30 AM: Output: 30626097150145
+Input: 555555/0
+Error: Cannot divide by zero.
+Error: Error occurred: Cannot divide by zero.
+Error: Cannot divide by zero.
+Input: 6777*7687
+Operation: *, Result: 52094799
+Input: 65676890-987665790045*5
+Operation: -, Result: -987600113155
+Operation: *, Result: -4938000565775
+Input: hb
+Error: Error occurred: Input string was not in a correct format.
+Error: Input string was not in a correct format.
+Input: ninn
+Error: Error occurred: Input string was not in a correct format.
+Error: Input string was not in a correct format.
+3/23/2024 12:14:31 AM: Input: 4652364562*7556325
+3/23/2024 12:14:31 AM: Operation: *, Result: 3.51547786489546E+16
+Input: 4215614364/0
+Error: Cannot divide by zero.
+Error: Error occurred: Cannot divide by zero.
+Error: Cannot divide by zero.
+Input: 746317864173+3727*77
+Operation: +, Result: 746317867900
+Operation: *, Result: 57466475828300
+3/23/2024 12:23:53 AM: Input: 7426753257-475725235
+3/23/2024 12:23:53 AM: Operation: -, Result: 6951028022
+3/23/2024 12:25:02 AM: Input: 5778464*464/0
+3/23/2024 12:25:02 AM: Operation: *, Result: 2681207296
+3/23/2024 12:25:02 AM: Error: Cannot divide by zero.
+3/23/2024 12:25:02 AM: Error: Error occurred: Cannot divide by zero.
+3/23/2024 12:25:02 AM: Error: Cannot divide by zero.
+3/23/2024 12:28:13 AM: Input: 364546*72562
+3/23/2024 12:28:13 AM: Operation: *, Result: 26452186852
+3/23/2024 12:31:11 AM: Input: 21644+734-9434
+3/23/2024 12:31:11 AM: Operation: +, Result: 22378
+3/23/2024 12:31:11 AM: Operation: -, Result: 12944
+3/23/2024 12:32:17 AM: Input: 3763275/0
+3/23/2024 12:32:17 AM: Error: Cannot divide by zero.
+3/23/2024 12:32:17 AM: Error: Error occurred: Cannot divide by zero.
+3/23/2024 12:32:17 AM: Error: Cannot divide by zero.
+3/23/2024 12:32:28 AM: Input: 777777777/77
+3/23/2024 12:32:28 AM: Operation: /, Result: 10101010.0909091
+3/23/2024 12:32:55 AM: Input: 34834/3948324
+3/23/2024 12:32:55 AM: Operation: /, Result: 0.00882247758795884
+3/23/2024 12:33:02 AM: Input: 384723894238424209/0
+3/23/2024 12:33:02 AM: Error: Cannot divide by zero.
+3/23/2024 12:33:02 AM: Error: Error occurred: Cannot divide by zero.
+3/23/2024 12:33:02 AM: Error: Cannot divide by zero.
+3/23/2024 12:33:12 AM: Input: 3749732482492/38424
+3/23/2024 12:33:12 AM: Operation: /, Result: 97588290.7165313
+3/23/2024 12:36:47 AM: Input: 64325364-2847348/247+3847
+3/23/2024 12:36:47 AM: Operation: -, Result: 61478016
+3/23/2024 12:36:47 AM: Operation: /, Result: 248898.850202429
+3/23/2024 12:36:47 AM: Operation: +, Result: 252745.850202429
+3/23/2024 12:36:57 AM: Input: 384784/374+387490
+3/23/2024 12:36:57 AM: Operation: /, Result: 1028.83422459893
+3/23/2024 12:36:57 AM: Operation: +, Result: 388518.834224599
+3/23/2024 12:37:14 AM: Input: 387384/347384-(78+384)
+3/23/2024 12:37:14 AM: Error: Error occurred: Input string was not in a correct format.
+3/23/2024 12:37:14 AM: Error: Error occurred: Input string was not in a correct format.
+03/23/2024 12:41:26 AM: Input: 352+33/3937-99
+03/23/2024 12:41:26 AM: Operation: +, Result: 385
+03/23/2024 12:41:26 AM: Operation: /, Result: 0.0977901955803912
+03/23/2024 12:41:26 AM: Operation: -, Result: -98.9022098044196
+03/23/2024 12:41:30 AM: Input: sndf
+03/23/2024 12:41:30 AM: Error: Error occurred: Input string was not in a correct format.
+03/23/2024 12:41:30 AM: Error: Error occurred: Input string was not in a correct format.
+03/23/2024 12:41:36 AM: Input: 773823*733
+03/23/2024 12:41:36 AM: Operation: *, Result: 567212259
+03/23/2024 12:41:45 AM: Input: 73139/238237323
+03/23/2024 12:41:45 AM: Operation: /, Result: 0.00030700059536851
+03/23/2024 12:41:59 AM: Input: 3873/0
+03/23/2024 12:41:59 AM: Error: Cannot divide by zero.
+03/23/2024 12:41:59 AM: Error: Error occurred: Cannot divide by zero.
+03/23/2024 12:41:59 AM: Error: Cannot divide by zero.
+03/23/2024 12:44:20 AM: Input: jxncdjw
+03/23/2024 12:44:20 AM: Error: Error occurred: Input string was not in a correct format.
+03/23/2024 12:44:20 AM: Error: Error occurred: Input string was not in a correct format.
+03/23/2024 12:44:25 AM: Input: 2676373+238723-37
+03/23/2024 12:44:25 AM: Operation: +, Result: 2915096
+03/23/2024 12:44:25 AM: Operation: -, Result: 2915059
+03/23/2024 12:44:31 AM: Input: 387349/0
+03/23/2024 12:44:31 AM: Error: Cannot divide by zero.
+03/23/2024 12:44:31 AM: Error: Error occurred: Cannot divide by zero.
+03/23/2024 12:44:31 AM: Error: Cannot divide by zero.
+9 12:50:02 AM: Input: 4576445*267553478-7364
+9 12:50:02 AM: Operation: *, Result: 1.22444377662571E+15
+9 12:50:02 AM: Operation: -, Result: 1.22444377661835E+15
+7 12:50:07 AM: Input: dff4
+7 12:50:07 AM: Error: Error occurred: Input string was not in a correct format.
+7 12:50:07 AM: Error: Error occurred: Input string was not in a correct format.
+3 12:50:09 AM: Input: 44uh4if
+3 12:50:09 AM: Error: Error occurred: Input string was not in a correct format.
+3 12:50:09 AM: Error: Error occurred: Input string was not in a correct format.
+3 12:50:11 AM: Input: rfijf
+3 12:50:11 AM: Error: Error occurred: Input string was not in a correct format.
+3 12:50:11 AM: Error: Error occurred: Input string was not in a correct format.
+ 12:50:15 AM: Input: 90/0
+ 12:50:15 AM: Error: Cannot divide by zero.
+ 12:50:15 AM: Error: Error occurred: Cannot divide by zero.
+ 12:50:15 AM: Error: Cannot divide by zero.
+5 12:50:30 AM: Input: 459458//0
+5 12:50:30 AM: Error: Error occurred: Input string was not in a correct format.
+5 12:50:30 AM: Error: Error occurred: Input string was not in a correct format.
+8 12:50:35 AM: Input: rjfn%6
+8 12:50:35 AM: Error: Error occurred: Input string was not in a correct format.
+8 12:50:35 AM: Error: Error occurred: Input string was not in a correct format.
+7 12:50:40 AM: Input: 4848%474
+7 12:50:40 AM: Operation: %, Result: 108
+51/23/2024 12:51:42 AM: Input: 3257*474
+51/23/2024 12:51:42 AM: Operation: *, Result: 1543818
+52/23/2024 12:52:46 AM: Input: 67/0 New Operation
+52/23/2024 12:52:46 AM: Error: Cannot divide by zero.
+52/23/2024 12:52:46 AM: Error: Error occurred: Cannot divide by zero.
+52/23/2024 12:52:46 AM: Error: Cannot divide by zero.
+52/23/2024 12:52:52 AM: Input: 38472742842/487545 New Operation
+52/23/2024 12:52:52 AM: Operation: /, Result: 78911.162748054
+54/23/2024 12:54:53 AM: NEW OPERATION: Input: 40-987*4757/485
+54/23/2024 12:54:53 AM: Operation: -, Result: -947
+54/23/2024 12:54:53 AM: Operation: *, Result: -4504879
+54/23/2024 12:54:53 AM: Operation: /, Result: -9288.41030927835
+55/23/2024 12:55:02 AM: NEW OPERATION: Input: 67/0
+55/23/2024 12:55:02 AM: Error: Cannot divide by zero.
+55/23/2024 12:55:02 AM: Error: Error occurred: Cannot divide by zero.
+55/23/2024 12:55:02 AM: Error: Cannot divide by zero.
+55/23/2024 12:55:09 AM: NEW OPERATION: Input: 67//8
+55/23/2024 12:55:09 AM: Error: Error occurred: Input string was not in a correct format.
+55/23/2024 12:55:09 AM: Error: Error occurred: Input string was not in a correct format.
+55/23/2024 12:55:12 AM: NEW OPERATION: Input: YES
+55/23/2024 12:55:12 AM: Error: Error occurred: Input string was not in a correct format.
+55/23/2024 12:55:12 AM: Error: Error occurred: Input string was not in a correct format.
+55/23/2024 12:55:20 AM: NEW OPERATION: Input: 47477447474747477%4774747474]
+55/23/2024 12:55:20 AM: Error: Error occurred: Input string was not in a correct format.
+55/23/2024 12:55:20 AM: Error: Error occurred: Input string was not in a correct format.
+55/23/2024 12:55:23 AM: NEW OPERATION: Input: 47477447474747477%4774747474
+55/23/2024 12:55:23 AM: Operation: %, Result: 3803392076
+25/24/2024 03:25:40 PM: NEW OPERATION: Input: 300000000000000000000000000000/0
+25/24/2024 03:25:40 PM: Error: Cannot divide by zero.
+25/24/2024 03:25:40 PM: Error: Error occurred: Cannot divide by zero.
+25/24/2024 03:25:40 PM: Error: Cannot divide by zero.
+25/24/2024 03:25:59 PM: NEW OPERATION: Input: 5%9*2/5+9-10
+25/24/2024 03:25:59 PM: Operation: %, Result: 5
+25/24/2024 03:25:59 PM: Operation: *, Result: 10
+25/24/2024 03:25:59 PM: Operation: /, Result: 2
+25/24/2024 03:25:59 PM: Operation: +, Result: 11
+25/24/2024 03:25:59 PM: Operation: -, Result: 1
+28/24/2024 03:28:07 PM: NEW OPERATION: Input: 30000000*5-(9+10)
+28/24/2024 03:28:07 PM: Error: Error occurred: Input string was not in a correct format.
+28/24/2024 03:28:07 PM: Error: Error occurred: Input string was not in a correct format.
+39/24/2024 03:39:08 PM: NEW OPERATION: Input: 30+(10-6)*10
+39/24/2024 03:39:08 PM: Error: Error occurred: Invalid expression.
+39/24/2024 03:39:08 PM: Error: Invalid expression.
+39/24/2024 03:39:24 PM: NEW OPERATION: Input: 10-19
+39/24/2024 03:39:24 PM: Error: Error occurred: Invalid expression.
+39/24/2024 03:39:24 PM: Error: Invalid expression.
+41/24/2024 03:41:01 PM: NEW OPERATION: Input: 50-5
+41/24/2024 03:41:01 PM: Error: Error occurred: Invalid expression.
+41/24/2024 03:41:01 PM: Error: Error occurred: Invalid expression.
+41/24/2024 03:41:21 PM: NEW OPERATION: Input: (89)-(90)
+41/24/2024 03:41:21 PM: Error: Error occurred: Invalid expression.
+41/24/2024 03:41:21 PM: Error: Error occurred: Invalid expression.
+41/24/2024 03:41:39 PM: NEW OPERATION: Input: 30-10
+41/24/2024 03:41:39 PM: Error: Error occurred: Invalid expression.
+41/24/2024 03:41:39 PM: Error: Error occurred: Invalid expression.
+41/24/2024 03:41:43 PM: NEW OPERATION: Input: 30+17
+41/24/2024 03:41:43 PM: Error: Error occurred: Invalid expression.
+41/24/2024 03:41:43 PM: Error: Error occurred: Invalid expression.
+41/24/2024 03:41:53 PM: NEW OPERATION: Input: 5*8
+41/24/2024 03:41:53 PM: Operation: Result, Result: 40
+42/24/2024 03:42:06 PM: NEW OPERATION: Input: 25555/0
+42/24/2024 03:42:06 PM: Error: Error occurred: Cannot divide by zero.
+42/24/2024 03:42:06 PM: Error: Error occurred: Cannot divide by zero.
+42/24/2024 03:42:14 PM: NEW OPERATION: Input: 45555-90
+42/24/2024 03:42:14 PM: Error: Error occurred: Invalid expression.
+42/24/2024 03:42:14 PM: Error: Error occurred: Invalid expression.
+44/24/2024 03:44:28 PM: NEW OPERATION: Input: 40+9
+44/24/2024 03:44:28 PM: Error: Error occurred: Invalid expression.
+44/24/2024 03:44:28 PM: Error: Error occurred: Invalid expression.
+47/24/2024 03:47:44 PM: NEW OPERATION: Input: 79-9+9
+47/24/2024 03:47:44 PM: Error: Error occurred: Invalid expression.
+47/24/2024 03:47:44 PM: Error: Error occurred: Invalid expression.
+47/24/2024 03:47:49 PM: NEW OPERATION: Input: 56*7
+47/24/2024 03:47:49 PM: Error: Error occurred: Invalid expression.
+47/24/2024 03:47:49 PM: Error: Error occurred: Invalid expression.
+47/24/2024 03:47:54 PM: NEW OPERATION: Input: 5/9
+47/24/2024 03:47:54 PM: Operation: Result, Result: 0.555555555555556
+48/24/2024 03:48:05 PM: NEW OPERATION: Input: 500000/98
+48/24/2024 03:48:05 PM: Error: Error occurred: Invalid expression.
+48/24/2024 03:48:05 PM: Error: Error occurred: Invalid expression.
+48/24/2024 03:48:18 PM: NEW OPERATION: Input: 89-(89+45)
+48/24/2024 03:48:18 PM: Error: Error occurred: Invalid expression.
+48/24/2024 03:48:18 PM: Error: Error occurred: Invalid expression.
+49/24/2024 03:49:57 PM: NEW OPERATION: Input: 30+10
+49/24/2024 03:49:57 PM: Error: Error occurred: Invalid expression.
+49/24/2024 03:49:57 PM: Error: Error occurred: Invalid expression.
+50/24/2024 03:50:02 PM: NEW OPERATION: Input: 3010+
+50/24/2024 03:50:02 PM: Error: Error occurred: Invalid expression.
+50/24/2024 03:50:02 PM: Error: Error occurred: Invalid expression.
+50/24/2024 03:50:06 PM: NEW OPERATION: Input: 20+
+50/24/2024 03:50:06 PM: Operation: Result, Result: 2
+50/24/2024 03:50:31 PM: NEW OPERATION: Input: 20+10-(10+2)
+50/24/2024 03:50:31 PM: Error: Error occurred: Invalid expression.
+50/24/2024 03:50:31 PM: Error: Error occurred: Invalid expression.
+51/24/2024 03:51:47 PM: NEW OPERATION: Input: 10+2
+51/24/2024 03:51:47 PM: Error: Error occurred: Invalid expression.
+51/24/2024 03:51:47 PM: Error: Error occurred: Invalid expression.
+51/24/2024 03:51:50 PM: NEW OPERATION: Input: 10-2
+51/24/2024 03:51:50 PM: Error: Error occurred: Invalid expression.
+51/24/2024 03:51:50 PM: Error: Error occurred: Invalid expression.
+51/24/2024 03:51:52 PM: NEW OPERATION: Input: 10/2
+51/24/2024 03:51:52 PM: Error: Error occurred: Invalid expression.
+51/24/2024 03:51:52 PM: Error: Error occurred: Invalid expression.
+51/24/2024 03:51:58 PM: NEW OPERATION: Input: 10*2
+51/24/2024 03:51:58 PM: Error: Error occurred: Invalid expression.
+51/24/2024 03:51:58 PM: Error: Error occurred: Invalid expression.
+54/24/2024 03:54:32 PM: NEW OPERATION: Input: 20+2
+54/24/2024 03:54:32 PM: Operation: Result, Result: 22
+54/24/2024 03:54:46 PM: NEW OPERATION: Input: 10+19\0
+54/24/2024 03:54:46 PM: Operation: Result, Result: 200
+55/24/2024 03:55:11 PM: NEW OPERATION: Input: 10+2
+55/24/2024 03:55:11 PM: Operation: Result, Result: 12
+55/24/2024 03:55:23 PM: NEW OPERATION: Input: 10-2
+55/24/2024 03:55:23 PM: Operation: Result, Result: 8
+55/24/2024 03:55:36 PM: NEW OPERATION: Input: 10/2
+55/24/2024 03:55:36 PM: Operation: Result, Result: 5
+55/24/2024 03:55:56 PM: NEW OPERATION: Input: 10%2
+55/24/2024 03:55:56 PM: Operation: Result, Result: 0
+56/24/2024 03:56:09 PM: NEW OPERATION: Input: 10*4
+56/24/2024 03:56:09 PM: Operation: Result, Result: 40
+56/24/2024 03:56:24 PM: NEW OPERATION: Input: 10+(90-10)
+56/24/2024 03:56:24 PM: Error: Error occurred: Stack empty.
+56/24/2024 03:56:24 PM: Error: Error occurred: Stack empty.
+58/24/2024 03:58:21 PM: NEW OPERATION: Input: 10+2
+58/24/2024 03:58:21 PM: Operation: Result, Result: 12
+58/24/2024 03:58:28 PM: NEW OPERATION: Input: 10+10-2
+58/24/2024 03:58:28 PM: Operation: Result, Result: 18
+58/24/2024 03:58:38 PM: NEW OPERATION: Input: 10+10-8*4
+58/24/2024 03:58:38 PM: Operation: Result, Result: -12
+58/24/2024 03:58:48 PM: NEW OPERATION: Input: 10+10-8*4/11+100
+58/24/2024 03:58:48 PM: Operation: Result, Result: 117.090909090909
+58/24/2024 03:58:59 PM: NEW OPERATION: Input: 10+(10-2)
+58/24/2024 03:58:59 PM: Error: Error occurred: Stack empty.
+58/24/2024 03:58:59 PM: Error: Error occurred: Stack empty.
+59/24/2024 03:59:15 PM: NEW OPERATION: Input: 100+90-(-20)
+59/24/2024 03:59:15 PM: Error: Error occurred: Stack empty.
+59/24/2024 03:59:15 PM: Error: Error occurred: Stack empty.
+59/24/2024 03:59:30 PM: NEW OPERATION: Input: 100+(10-4)*11
+59/24/2024 03:59:30 PM: Error: Error occurred: Stack empty.
+59/24/2024 03:59:30 PM: Error: Error occurred: Stack empty.
+00/24/2024 04:00:48 PM: NEW OPERATION: Input: 10+2
+00/24/2024 04:00:48 PM: Operation: Result, Result: 12
+00/24/2024 04:00:54 PM: NEW OPERATION: Input: 10+10-2
+00/24/2024 04:00:54 PM: Operation: Result, Result: 18
+01/24/2024 04:01:01 PM: NEW OPERATION: Input: 10+10-2*2
+01/24/2024 04:01:01 PM: Operation: Result, Result: 16
+01/24/2024 04:01:24 PM: NEW OPERATION: Input: 10+10-2*2/2
+01/24/2024 04:01:24 PM: Operation: Result, Result: 18
+01/24/2024 04:01:52 PM: NEW OPERATION: Input: 10+(10-2)
+01/24/2024 04:01:52 PM: Error: Error occurred: Invalid expression.
+01/24/2024 04:01:52 PM: Error: Error occurred: Invalid expression.
+02/24/2024 04:02:01 PM: NEW OPERATION: Input: (10-2)
+02/24/2024 04:02:01 PM: Operation: Result, Result: 8
+02/24/2024 04:02:08 PM: NEW OPERATION: Input: (10-2)+1
+02/24/2024 04:02:08 PM: Operation: Result, Result: 9
+02/24/2024 04:02:29 PM: NEW OPERATION: Input: (10-2)+1*(200-10)
+02/24/2024 04:02:29 PM: Error: Error occurred: Invalid expression.
+02/24/2024 04:02:29 PM: Error: Error occurred: Invalid expression.
+04/24/2024 04:04:09 PM: NEW OPERATION: Input: 100-2
+04/24/2024 04:04:09 PM: Operation: Result, Result: 98
+04/24/2024 04:04:21 PM: NEW OPERATION: Input: 100-10+2/5
+04/24/2024 04:04:21 PM: Operation: Result, Result: 90.4
+04/24/2024 04:04:29 PM: NEW OPERATION: Input: 100*400
+04/24/2024 04:04:29 PM: Operation: Result, Result: 40000
+04/24/2024 04:04:48 PM: NEW OPERATION: Input: 10+7-(19-20)+22-10
+04/24/2024 04:04:48 PM: Error: Error occurred: Invalid expression.
+04/24/2024 04:04:48 PM: Error: Error occurred: Invalid expression.
+04/24/2024 04:04:59 PM: NEW OPERATION: Input: 10+7-(19-20)
+04/24/2024 04:04:59 PM: Error: Error occurred: Invalid expression.
+04/24/2024 04:04:59 PM: Error: Error occurred: Invalid expression.
+05/24/2024 04:05:08 PM: NEW OPERATION: Input: (10-2)+10
+05/24/2024 04:05:08 PM: Operation: Result, Result: 18
+05/24/2024 04:05:19 PM: NEW OPERATION: Input: (10-2)+10-10
+05/24/2024 04:05:19 PM: Operation: Result, Result: 8
+05/24/2024 04:05:31 PM: NEW OPERATION: Input: 10+7-(19-20)+22-10
+05/24/2024 04:05:31 PM: Error: Error occurred: Invalid expression.
+05/24/2024 04:05:31 PM: Error: Error occurred: Invalid expression.
+05/24/2024 04:05:34 PM: NEW OPERATION: Input: 10+7-(19-20)
+05/24/2024 04:05:34 PM: Error: Error occurred: Invalid expression.
+05/24/2024 04:05:34 PM: Error: Error occurred: Invalid expression.
+05/24/2024 04:05:36 PM: NEW OPERATION: Input: (10-2)+10-10
+05/24/2024 04:05:36 PM: Operation: Result, Result: 8
+05/24/2024 04:05:43 PM: NEW OPERATION: Input: (10-2)+10-10*18
+05/24/2024 04:05:43 PM: Operation: Result, Result: -162
+05/24/2024 04:05:54 PM: NEW OPERATION: Input: (10-2)+10-10*18/0
+05/24/2024 04:05:54 PM: Error: Error occurred: Cannot divide by zero.
+05/24/2024 04:05:54 PM: Error: Error occurred: Cannot divide by zero.
+06/24/2024 04:06:00 PM: NEW OPERATION: Input: (10-2)+10-10*18/10
+06/24/2024 04:06:00 PM: Operation: Result, Result: 0
+09/24/2024 04:09:12 PM: NEW OPERATION: Input: (10-2)+10-10*18/2
+09/24/2024 04:09:12 PM: Operation: Result, Result: -72
+09/24/2024 04:09:26 PM: NEW OPERATION: Input: (10-2)+10-10*18-(10+2)
+09/24/2024 04:09:26 PM: Error: Error occurred: Invalid expression.
+09/24/2024 04:09:26 PM: Error: Error occurred: Invalid expression.
+09/24/2024 04:09:31 PM: NEW OPERATION: Input: (10-2)+10-10*18-(10+2)/2
+09/24/2024 04:09:31 PM: Error: Error occurred: Invalid expression.
+09/24/2024 04:09:31 PM: Error: Error occurred: Invalid expression.
+12/24/2024 04:12:18 PM: NEW OPERATION: Input: 100-2
+12/24/2024 04:12:18 PM: Operation: Result, Result: 98
+14/24/2024 04:14:10 PM: NEW OPERATION: Input: 100-20+(20-2)
+14/24/2024 04:14:10 PM: Error: Error occurred: Invalid expression.
+14/24/2024 04:14:10 PM: Error: Error occurred: Invalid expression.
+14/24/2024 04:14:16 PM: NEW OPERATION: Input: 100-20+(20-2)-2
+14/24/2024 04:14:16 PM: Error: Error occurred: Invalid expression.
+14/24/2024 04:14:16 PM: Error: Error occurred: Invalid expression.
+40/24/2024 04:40:08 PM: NEW OPERATION: Input: 100+2
+40/24/2024 04:40:08 PM: Operation: Result, Result: 102
+40/24/2024 04:40:15 PM: NEW OPERATION: Input: 1000+2-373293
+40/24/2024 04:40:15 PM: Operation: Result, Result: -372291
+40/24/2024 04:40:21 PM: NEW OPERATION: Input: 200/0
+40/24/2024 04:40:21 PM: Error: Error occurred: Cannot divide by zero.
+40/24/2024 04:40:21 PM: Error: Error occurred: Cannot divide by zero.
+40/24/2024 04:40:27 PM: NEW OPERATION: Input: 200/22
+40/24/2024 04:40:27 PM: Operation: Result, Result: 9.09090909090909
+40/24/2024 04:40:37 PM: NEW OPERATION: Input: 100/2*2733%2
+40/24/2024 04:40:37 PM: Operation: Result, Result: 0
+40/24/2024 04:40:49 PM: NEW OPERATION: Input: 100/2*2733/2+2
+40/24/2024 04:40:49 PM: Operation: Result, Result: 68327
+40/24/2024 04:40:57 PM: NEW OPERATION: Input: 100/2*2733/2+2-1000383
+40/24/2024 04:40:57 PM: Operation: Result, Result: -932056
+March/D/Y 04:46:23 PM: NEW OPERATION: Input: 100-2
+March/D/Y 04:46:23 PM: Operation: Result, Result: 98
+03/24/2024 04:47:41 PM: NEW OPERATION: Input: 1000000000000000000000/7
+03/24/2024 04:47:41 PM: Operation: Result, Result: 1.42857142857143E+20
+03/24/2024 04:47:49 PM: NEW OPERATION: Input: 10000000000000000000000000000000000000000000000000000000000/9
+03/24/2024 04:47:49 PM: Operation: Result, Result: 1.11111111111111E+57
+03/24/2024 04:47:58 PM: NEW OPERATION: Input: 10000000000000000000000000000000000000000000000000000000000/0
+03/24/2024 04:47:58 PM: Error: Error occurred: Cannot divide by zero.
+03/24/2024 04:47:58 PM: Error: Cannot divide by zero.
+03/24/2024 04:53:11 PM: NEW OPERATION: Input: 100000000000000000000000000000000000+19282
+03/24/2024 04:53:11 PM: Operation: Result, Result: 100000000000000000000000000000000000.00
+03/24/2024 05:00:52 PM: NEW OPERATION: Input: 10000-2
+03/24/2024 05:00:52 PM: Operation: Result, Result: 9998
+03/24/2024 05:00:59 PM: NEW OPERATION: Input: 1000000/0
+03/24/2024 05:00:59 PM: Error: Error occurred: Cannot divide by zero.
+03/24/2024 05:00:59 PM: Error: Error occurred: Cannot divide by zero.
+03/24/2024 05:01:05 PM: NEW OPERATION: Input: 1000*2
+03/24/2024 05:01:05 PM: Operation: Result, Result: 2000
+03/24/2024 05:01:20 PM: NEW OPERATION: Input: 100-222*555/99*22+11
+03/24/2024 05:01:20 PM: Operation: Result, Result: -27269
+03/25/2024 10:28:57 AM: NEW OPERATION: Input: 100000000/9343443
+03/25/2024 10:28:57 AM: Operation: Result, Result: 10.7026927868025
+03/25/2024 10:29:05 AM: NEW OPERATION: Input: 100000000000000000000000000000000000000000000/9
+03/25/2024 10:29:05 AM: Operation: Result, Result: 1.11111111111111E+43
+03/25/2024 10:29:12 AM: NEW OPERATION: Input: 100/-0
+03/25/2024 10:29:12 AM: Error: Error occurred: Stack empty.
+03/25/2024 10:29:12 AM: Error: Error occurred: Stack empty.
+03/25/2024 10:29:18 AM: NEW OPERATION: Input: 100/0
+03/25/2024 10:29:18 AM: Error: Error occurred: Cannot divide by zero.
+03/25/2024 10:29:18 AM: Error: Error occurred: Cannot divide by zero.
+03/25/2024 10:29:28 AM: NEW OPERATION: Input: 45555/655778*75575
+03/25/2024 10:29:28 AM: Operation: Result, Result: 5249.97655456572
+04/03/2024 04:28:10 PM: NEW OPERATION: Input: 67 / 9 * 7
+04/03/2024 04:28:10 PM: Operation: Result, Result: 52.1111111111111
+04/03/2024 04:28:20 PM: NEW OPERATION: Input: 100-8+8
+04/03/2024 04:28:20 PM: Operation: Result, Result: 100
+04/03/2024 05:02:58 PM: NEW OPERATION: Input: 100+9-18
+04/03/2024 05:02:58 PM: Operation: Result, Result: 91
+04/04/2024 03:37:22 PM: NEW OPERATION: Input: 10-283+2839/927/0
+04/04/2024 03:37:22 PM: Error: Error occurred: Cannot divide by zero.
+04/04/2024 03:37:22 PM: Error: Error occurred: Cannot divide by zero.
+04/05/2024 09:53:54 AM: Calculate - NEW OPERATION: Input: 10+-
+04/05/2024 09:53:54 AM: Calculate - Error: Error occurred: Stack empty.
+04/05/2024 09:53:54 AM: Main - Error: Error occurred: Stack empty.
+04/05/2024 09:54:06 AM: Calculate - NEW OPERATION: Input: 10+10-9+9*5
+04/05/2024 09:54:06 AM: Calculate - Operation: Result, Result: 56
+04/05/2024 09:54:14 AM: Calculate - NEW OPERATION: Input: 100/0
+04/05/2024 09:54:14 AM: Calculate - Error: Error occurred: Cannot divide by zero.
+04/05/2024 09:54:14 AM: Main - Error: Cannot divide by zero.
+04/05/2024 09:54:23 AM: Calculate - NEW OPERATION: Input: 10000/8/9
+04/05/2024 09:54:23 AM: Calculate - Operation: Result, Result: 138.888888888889
+04/05/2024 10:46:08 AM: Calculate - NEW OPERATION: Input: 5000+29292
+04/05/2024 10:46:08 AM: Calculate - Operation: Result, Result: 34292
+04/05/2024 10:46:13 AM: Calculate - NEW OPERATION: Input: 20231031-=1103109311
+04/05/2024 10:46:13 AM: Calculate - Operation: Result, Result: -1082878280
+04/05/2024 10:46:31 AM: Calculate - NEW OPERATION: Input: yssssssssssssssssss
+04/05/2024 10:46:31 AM: Calculate - Error: Error occurred: Invalid expression.
+04/05/2024 10:46:31 AM: Main - Error: Invalid expression.
+04/05/2024 10:56:49 AM: Calculate - NEW OPERATION: Input: 199/0
+04/05/2024 10:56:49 AM: Calculate - Error: Error occurred: Cannot divide by zero.
+04/05/2024 10:56:49 AM: Main - Error: Cannot divide by zero.
+04/05/2024 10:56:57 AM: Calculate - NEW OPERATION: Input: 100-92830+=92
+04/05/2024 10:56:57 AM: Calculate - Operation: Result, Result: -92638
+04/05/2024 10:57:42 AM: Calculate - NEW OPERATION: Input: 000000000000000000000000000000000/0\
+04/05/2024 10:57:42 AM: Calculate - Error: Error occurred: Cannot divide by zero.
+04/05/2024 10:57:42 AM: Main - Error: Cannot divide by zero.
+04/05/2024 11:09:36 AM: [INF] Calculate - NEW OPERATION: Input: 10+90-191
+04/05/2024 11:09:36 AM: [INF] Calculate - Operation: Result, Result: -91
+04/05/2024 11:09:40 AM: [INF] Calculate - NEW OPERATION: Input: 100/0
+04/05/2024 11:09:40 AM: [ERROR] Calculate - Error: Error occurred: Cannot divide by zero.
+04/05/2024 11:09:40 AM: [ERROR] Main - Error: Cannot divide by zero.
+04/05/2024 11:09:48 AM: [INF] Calculate - NEW OPERATION: Input: 172882*27793/298389
+04/05/2024 11:09:48 AM: [INF] Calculate - Operation: Result, Result: 16102.8369879587
+04/05/2024 11:14:10 AM: [INF] Calculate - NEW OPERATION: Input: 7e2y37y3298y
+04/05/2024 11:14:10 AM: [INF] Calculate - Operation: Result, Result: 72373298
+04/05/2024 11:14:22 AM: [INF] Calculate - NEW OPERATION: Input: jfoef0-sogr-g
+04/05/2024 11:14:22 AM: [ERROR] EvaluatePostfix - Error: Stack empty.
+04/05/2024 11:14:22 AM: [INF] Calculate - Operation: Result, Result: 0
+04/05/2024 11:30:19 AM: [INF] Calculate - NEW OPERATION: Input: 10+100-99*4
+04/05/2024 11:30:19 AM: [INF] Calculate -  Result: -286
+04/05/2024 11:30:27 AM: [INF] Calculate - NEW OPERATION: Input: 111/90/0/22
+04/05/2024 11:30:27 AM: [ERROR] Calculate - Error: Error occurred: Cannot divide by zero.
+04/05/2024 11:30:27 AM: [ERROR] Main - Error: Cannot divide by zero.
+04/05/2024 11:30:34 AM: [INF] Calculate - NEW OPERATION: Input: 10238293280391809480948091818942
+04/05/2024 11:30:34 AM: [INF] Calculate -  Result: 1.02382932803918E+31
+04/05/2024 11:30:42 AM: [INF] Calculate - NEW OPERATION: Input: e3108u0wd
+04/05/2024 11:30:42 AM: [INF] Calculate -  Result: 31080
+04/05/2024 11:30:52 AM: [INF] Calculate - NEW OPERATION: Input: 283921ue3jdo3n29+e9308d/dw
+04/05/2024 11:30:52 AM: [ERROR] Calculate - Error: Error occurred: Stack empty.
+04/05/2024 11:30:52 AM: [ERROR] Main - Error: Error occurred: Stack empty.
+04/05/2024 11:30:56 AM: [INF] Calculate - NEW OPERATION: Input: hudowd
+04/05/2024 11:30:56 AM: [ERROR] Calculate - Error: Error occurred: Invalid expression.
+04/05/2024 11:30:56 AM: [ERROR] Main - Error: Invalid expression.
